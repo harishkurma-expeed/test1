@@ -1,0 +1,14 @@
+{
+  "name": "page1",
+  "main": {
+    "name": "main",
+    "type": "container",
+    "children": [{
+      "name": "firstName",
+      "type": "textbox",
+      "properties": {
+        "placeholder": "Enter uyour first name"
+      }      
+    }]
+  }
+}
