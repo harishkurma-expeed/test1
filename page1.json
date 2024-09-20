@@ -7,7 +7,13 @@
       "name": "firstName",
       "type": "textbox",
       "properties": {
-        "placeholder": "Enter uyour first name"
+        "placeholder": "Enter your first name"
+      }      
+    },{
+      "name": "lastName",
+      "type": "textbox",
+      "properties": {
+        "placeholder": "Enter your last name"
       }      
     }]
   }
